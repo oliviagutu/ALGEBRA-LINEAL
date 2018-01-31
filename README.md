@@ -42,6 +42,6 @@ Información para el curso de Álgebra Lineal
 
 1.13 Prueba que para cualesquiera n números a_1,a_2,...,a_n se cumple que:
 
-     (a_1+a_2+...+a_n)^2 <= n(a_1^2+a_2^2+...+a_n^2)
+     (a_1+a_2+...+a_n)^2 <= n*(a_1^2+a_2^2+...+a_n^2)
 
 
