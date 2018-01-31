@@ -19,7 +19,7 @@ Información para el curso de Álgebra Lineal
   
 1.3. Describe geométricamente al conjunto de soluciones de Ax=0 donde A es la matriz de 3x1 (1,1,1) y b es un vector 0 de 1x1.
 
-1.4. Decida y argumente si la matriz (1,0,2|2,0,4|3,0,6) tiene inversa.
+1.4. Decida y argumente si la matriz con renglones (1,0,2), (2,0,4), (3,0,6) tiene inversa.
 
 1.5. Demuestra que la matriz de rotación Rot_r que vimos en clase, efectivamente rota r grados a cada vector de R^2.
 
@@ -38,7 +38,7 @@ Información para el curso de Álgebra Lineal
 
 1.11 Busca en la literatura la *ley del paralelogramo*. Demuéstrala con lo que vimos en clase.
 
-1.12 La desigualdad de Cauchy-Schwartz dice que |w.v| <= norm(w)norm(v). ¿Cuándo se cumple la igualdad?
+1.12 La desigualdad de Cauchy-Schwartz dice que abs(w.v) <= norm(w)norm(v). ¿Cuándo se cumple la igualdad?
 
 1.13 Prueba que para cualesquiera n números a_1,a_2,...,a_n se cumple que (a_1+a_2+...+a_n)^2 <= n(a_1^2+a_2^2+...+a_n^2)
 
