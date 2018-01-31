@@ -17,7 +17,7 @@ Información para el curso de Álgebra Lineal
   * la última columna
   * la información del promedio de cada uno de los renglones de A
   
-1.3. Describe geométricamente al conjunto de soluciones de Ax=0 donde A es la matriz de 3x1 (1,1,1) y b es un vector 0 de 1x1.
+1.3. Describe geométricamente al conjunto de soluciones de Ax=0 donde A es la matriz de 3x1 (1,1,1) y b es  0 (un vector de 1x1).
 
 1.4. Decida y argumente si la matriz con renglones (1,0,2), (2,0,4), (3,0,6) tiene inversa.
 
