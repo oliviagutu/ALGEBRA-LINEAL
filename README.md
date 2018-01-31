@@ -23,7 +23,11 @@ Información para el curso de Álgebra Lineal
 
 1.8. Suponga que A es una matriz de 3x4 (3 renglones y 4 columnas), ¿es posible que A sea inyectiva? Razona tu respuesta, discute con tus compañeros. De un ejemplo de una matriz de 3x4 que llene todo R^3.
 
-1.9 
+1.9 Responde verdadero o falso:
+   * span{(1,2,3)}=span{(1/3,2/3,1),(4,8,12)}
+   * span{(1,1,1),(1,0,1)}=span{(1,1,1)}
+   
+1.10  Encuentra la ecuación del hiperplano perpendicular a (1,4,5,6,8,9,10) que pasa por 0.
 
 
 
