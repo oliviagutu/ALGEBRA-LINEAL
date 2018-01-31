@@ -26,8 +26,14 @@ Información para el curso de Álgebra Lineal
 1.9 Responde verdadero o falso:
    * span{(1,2,3)}=span{(1/3,2/3,1),(4,8,12)}
    * span{(1,1,1),(1,0,1)}=span{(1,1,1)}
+   * span{(1,0,0),(0,0,0)}=span{(1,0,0)}
    
 1.10  Encuentra la ecuación del hiperplano perpendicular a (1,4,5,6,8,9,10) que pasa por 0.
 
+1.11 Busca en la literatura la *ley del paralelogramo*. Demuéstrala con lo que vimos en clase.
+
+1.12 La desigualdad de Cauchy-Schwartz dice que |w.v|<=norm(w)norm(v). ¿Cuándo se cumple la igualdad?
+
+1.13 
 
 
