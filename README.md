@@ -32,8 +32,8 @@ Información para el curso de Álgebra Lineal
 
 1.11 Busca en la literatura la *ley del paralelogramo*. Demuéstrala con lo que vimos en clase.
 
-1.12 La desigualdad de Cauchy-Schwartz dice que |w.v|<=norm(w)norm(v). ¿Cuándo se cumple la igualdad?
+1.12 La desigualdad de Cauchy-Schwartz dice que |w.v| <= norm(w)norm(v). ¿Cuándo se cumple la igualdad?
 
-1.13 
+1.13 Prueba que para cualesquiera n números a_1,a_2,...,a_n se cumple que (a_1+a_2+...+a_n)^2 <= n(a_1^2+a_2^2+...+a_n^2)
 
 
