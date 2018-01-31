@@ -7,10 +7,10 @@ Información para el curso de Álgebra Lineal
 
 1.2. Suponga que tengo un programa EVALMATRIX(A,x) que recibe como entrada una matriz A de mxn (m renglones y n columnas) y un vector n-dimensional x, y regresa como salida al vector m-dimensional Ax. Usa ese programa para obtener:
    
-    * a) la suma de todas las columnas de A;
-    * b) la primera columna;
-    * c) la última columna;
-    * d) la información del promedio de cada uno de los renglones de A
+    * la suma de todas las columnas de A;
+    * la primera columna;
+    * la última columna;
+    * la información del promedio de cada uno de los renglones de A
 
 
 
