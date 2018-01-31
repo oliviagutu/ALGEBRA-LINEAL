@@ -17,7 +17,13 @@ Información para el curso de Álgebra Lineal
 
 1.5. Demuestra que la matriz de rotación Rot_r que vimos en clase, efectivamente rota r grados a cada vector de R^2.
 
-1.6. 
+1.6  Pruebe que A es inyectiva (Ax_1=Ax_2 implica x_1=x_2) si y solo si Ax=0 tiene una única solución.
+
+1.7. Suponga que A es una matriz de 4x3 (4 renglones y 3 columnas), ¿es posible que la imagen de A llene a R^4? Razona tu respuesta, discute con tus compañeros. De un ejemplo de una matriz de 4x3 inyectiva.
+
+1.8. Suponga que A es una matriz de 3x4 (3 renglones y 4 columnas), ¿es posible que A sea inyectiva? Razona tu respuesta, discute con tus compañeros. De un ejemplo de una matriz de 3x4 que llene todo R^3.
+
+1.9 
 
 
 
