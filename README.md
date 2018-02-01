@@ -9,7 +9,7 @@ Información para el curso de Álgebra Lineal
  * la norma de v
  * la norma de v-w
     
-1.1. Sean v=(1,2,3), w=(1,1,1) y z=(3,5,7) tres vectores en R^3. Sea S el conjunto de combinaciones lineales de esos tres vectores, esto es, S=span{v,w,z}. Decide S es un punto, una línea o un plano.
+1.1. Sean v=(1,2,3), w=(1,1,1) y z=(3,5,7) tres vectores en R^3. Sea S el conjunto de combinaciones lineales de esos tres vectores, esto es, S=span{v,w,z}. Decide si S es un punto, una línea o un plano.
 
 1.2. Suponga que tengo un programa EVALMATRIX(A,x) que recibe como entrada una matriz A de mxn (m renglones y n columnas) y un vector n-dimensional x, y regresa como salida al vector m-dimensional Ax. Usa ese programa para obtener:
   * la suma de todas las columnas de A
@@ -17,7 +17,7 @@ Información para el curso de Álgebra Lineal
   * la última columna
   * la información del promedio de cada uno de los renglones de A
   
-1.3. Describe geométricamente al conjunto de soluciones de Ax=0 donde A es la matriz de 3x1 (1,1,1) y b es  0 (un vector de 1x1).
+1.3. Describe geométricamente al conjunto de soluciones de Ax=0 donde A es la matriz de 1x3 (1,1,1) y b es  0 (un vector de 1x1).
 
 1.4. Decida y argumente si la matriz con renglones (1,0,2), (2,0,4), (3,0,6) tiene inversa.
 
