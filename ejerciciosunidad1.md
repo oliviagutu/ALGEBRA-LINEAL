@@ -42,7 +42,7 @@
     
    (a_1+a_2+...+a_n)^2 <= n*(a_1^2+a_2^2+...+a_n^2).
    
-## Ejercicios del examen
+## Examen 1
 
 1. Sea A una matriz con renglones (1,3,5), (1,2,4) y (2,1,5). 
     a.  Encuentra si existe un vector  b para el cual NO exista un x tal que Ax=b.
