@@ -26,9 +26,9 @@
     -   Espacio de soluciones de una ecuación lineal
 
 - Sistemas de ecuaciones lineales
-   -    Algoritmo de eliminación gaussiana
-   -    Matrices de eliminación
-   -    Multiplicación de matrices
+   -    Algoritmo de eliminación gaussiana
+   -    Matrices de eliminación
+   -    Multiplicación de matrices
    -    Inversa de una  matriz
    -    Traspuestas y permutaciones
 
@@ -46,7 +46,7 @@
     -   Bases ortogonales 
 
 - Autovalores y autovectores
-  -     Introducción a los autovalores y autovectores
+  -     Introducción a los autovalores y autovectores
   -     Potencias de matrices
   -     Relación con la traza y el determinante
   -     Matrices simétricas y definidas positivas
