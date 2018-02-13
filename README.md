@@ -40,10 +40,10 @@
     -   Dimensiones de los cuatro subespacios
   
 - Ortogonalidad
-  -     Ortogonalidad de los cuatro subespacios
-  -     Proyecciones
-  -     Mínimos cuadrados
-  -     Bases ortogonales y proceso de Gram-Schmidt
+    -   Ortogonalidad de los cuatro subespacios
+    -   Proyecciones 
+    -   Mínimos cuadrados
+    -   Bases ortogonales 
 
 - Autovalores y autovectores
   -     Introducción a los autovalores y autovectores
