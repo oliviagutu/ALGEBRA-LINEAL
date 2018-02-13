@@ -1,5 +1,51 @@
 # ALGEBRA LINEAL
-Información para el curso de Álgebra Lineal
+
+# Información General
+
+- **Profesor**: [Olivia Gutú](https://github.com/oliviagutu)
+
+- **Localización**: Cubículo 2, edificio 3K-4
+
+- **Horario**: Lunes a viernes de 8:00 a 9:00 hrs.
+
+
+- **Asesorías**: Estaré disponible todos los días de 14:00 a 15:00 hrs. 
+
+- **Textos**: 
+    - *Introduction to linear algebra*, 4.ª ed. Strang, G. Wellesley Cambridge Press.
+
+
+# Contenido de la materia
+
+- Vectores
+  -     Combinaciones lineales
+  -     Producto punto
+  -     Matrices
+  
+- Sistemas de ecuaciones
+  -     Eliminación 
+  -     Operaciones con matrices
+  -     Inversa de una matriz
+  -     Transpuestas y permutaciones
+
+- Espacios vectoriales
+  -  Kernel de una matriz
+  -  Rango de una matriz
+  -  Espacio de soluciones de un sistema
+  -  Independencia, bases y dimensión
+  -  Dimensión de los cuatro subespacios
+- Ortogonalidad
+  -  Cuatro subespacios
+  -  Proyecciones
+  -  Mínimos cuadrados
+  -  Bases ortogonales y proceso de Gram-Schmidt
+- Introducción a los autovalores y autovectores
+- Aplicaciones a la graficación por computadora.
+
+
+
+
+
 
 ## Ejercicios Unidad 1.
 
