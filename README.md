@@ -32,20 +32,11 @@
    -    Inversa de una  matriz
    -    Traspuestas y permutaciones
 
-- Sistemas de ecuaciones
-  -     Eliminación 
-  -     Operaciones con matrices
-  -     Inversa de una matriz
-  -     Transpuestas y permutaciones
-  -     Matrices definidas positivas
-
 - Espacios vectoriales
-  -     Kernel de una matriz
-  -     Rango de una matriz
-  -     Espacio de soluciones de un sistema
-  -     Independencia, bases y dimensión
-  -     Dimensión de los cuatro subespacios
-
+  -     Kernel y rango de uma matriz
+  -     Independencia, bases y dimensión
+  -     Los cuatro espacios
+  
 - Ortogonalidad
   -     Cuatro subespacios
   -     Proyecciones
