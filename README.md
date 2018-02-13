@@ -33,12 +33,14 @@
    -    Traspuestas y permutaciones
 
 - Espacios vectoriales
-  -     Kernel y rango de uma matriz
-  -     Independencia, bases y dimensión
-  -     Los cuatro espacios
+    -   Espacio de vectores
+    -   Kernel de una matriz
+    -   Rango de una matriz y la forma escalonada reducida
+    -   Independencia, bases y dimensión
+    -   Dimensiones de los cuatro subespacios
   
 - Ortogonalidad
-  -     Cuatro subespacios
+  -     Ortogonalidad de los cuatro subespacios
   -     Proyecciones
   -     Mínimos cuadrados
   -     Bases ortogonales y proceso de Gram-Schmidt
