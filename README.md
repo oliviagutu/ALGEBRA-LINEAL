@@ -23,12 +23,12 @@
     -   Producto punto y norma de un vector
     -   Matrices y funciones lineales
     -   Espacio columna de una matriz
-    -   Espacio de soluciones de una ecuación lineal
+    -   Espacio de soluciones de una ecuación lineal
 
 - Sistemas de ecuaciones lineales
-   -    Algoritmo de eliminación gaussiana
-   -    Matrices de eliminación
-   -    Multiplicación de matrices
+   -    Algoritmo de eliminación gaussiana
+   -    Matrices de eliminación
+   -    Multiplicación de matrices
    -    Inversa de una  matriz
    -    Traspuestas y permutaciones
 
@@ -40,17 +40,17 @@
   -     Matrices definidas positivas
 
 - Espacios vectoriales
-  -     Kernel de una matriz
-  -     Rango de una matriz
-  -     Espacio de soluciones de un sistema
-  -     Independencia, bases y dimensión
-  -     Dimensión de los cuatro subespacios
+  -     Kernel de una matriz
+  -     Rango de una matriz
+  -     Espacio de soluciones de un sistema
+  -     Independencia, bases y dimensión
+  -     Dimensión de los cuatro subespacios
 
 - Ortogonalidad
-  -     Cuatro subespacios
-  -     Proyecciones
-  -     Mínimos cuadrados
-  -     Bases ortogonales y proceso de Gram-Schmidt
+  -     Cuatro subespacios
+  -     Proyecciones
+  -     Mínimos cuadrados
+  -     Bases ortogonales y proceso de Gram-Schmidt
 
 - Autovalores y autovectores
   -     Introducción a los autovalores y autovectores
