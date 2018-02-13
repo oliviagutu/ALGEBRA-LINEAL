@@ -65,6 +65,17 @@ La calificación del curso se realiza de la siguiente manera:
 4. Participación (incluye exposiciones) (10%)
 
 
+## Ligas de interés
+
+- Foro de preguntas y respuestas en matemáticas, incluyendo álgebra lineal:
+    -   [Stackexchange](http://cs.stackexchange.com/)
+
+- Para practicar procedimientos del álgebra lineal:
+    -   [Linear Algebra Toolkit](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi)
+         
+   
+  
+
 ## Ejercicios Unidad 1.
 
 1.0 Considere lo siguiente v=(1,2,3) y w=(4,4,4). Calcula lo siguiente:
