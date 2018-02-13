@@ -1,5 +1,5 @@
 
-# Ejercicios unidad 1
+## Ejercicios unidad 1
 
 1.0 Considere lo siguiente v=(1,2,3) y w=(4,4,4). Calcula lo siguiente:
  * la distancia entre v y w
@@ -40,5 +40,20 @@
 
 1.13 Prueba que para cualesquiera n números a_1,a_2,...,a_n se cumple que:
     
-   (a_1+a_2+...+a_n)^2 <= n*(a_1^2+a_2^2+...+a_n^2)
+   (a_1+a_2+...+a_n)^2 <= n*(a_1^2+a_2^2+...+a_n^2).
+   
+# Ejercicios del examen
+
+1. Sea A una matriz con renglones (1,3,5), (1,2,4) y (2,1,5). 
+    a.  Encuentra si existe un vector  b para el cual NO exista un x tal que Ax=b.
+    b.  Escribe al conjunto de soluciones de Ax=0 como el generado de un conjunto de vectores.
+    c.  Describe geométricamente al conjunto del inciso b.
+2. Sea P una matriz con renglones (1,0,0) y (0,1,0).
+    a. ¿Qué efecto le hace esa matriz al espacio R^3?
+    b. ¿Es P una función sobreyectiva?
+    c. Verifica que hay una infinidad de matrices R (de *right inverse*) de 3x2 tales que, para todo x en R^2:
+    
+    P(Rx)=x.
+    
+    d. ¿Es P una función inyectiva?
 
