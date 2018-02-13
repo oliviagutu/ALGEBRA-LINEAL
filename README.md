@@ -75,7 +75,7 @@ La calificación del curso se realiza de la siguiente manera:
          
    
   
-
+[Ejercicios unidad](ALGEBRA-LINEAL/ejerciciosunidad1.md)
 # Ejercicios Unidad 1.
 
 1.0 Considere lo siguiente v=(1,2,3) y w=(4,4,4). Calcula lo siguiente:
