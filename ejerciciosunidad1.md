@@ -1,11 +1,5 @@
----
-short-description: Ejercicios unidad 1
-...
 
 # Ejercicios unidad 1
-
-
-\subpage Ejercicios Unidad 1.
 
 1.0 Considere lo siguiente v=(1,2,3) y w=(4,4,4). Calcula lo siguiente:
  * la distancia entre v y w
@@ -47,7 +41,4 @@ short-description: Ejercicios unidad 1
 1.13 Prueba que para cualesquiera n números a_1,a_2,...,a_n se cumple que:
     
    (a_1+a_2+...+a_n)^2 <= n*(a_1^2+a_2^2+...+a_n^2)
-   
-Using *some* **random** `CommonMark` [syntax](http://spec.commonmark.org/)
 
-You may want to go back to [the index](index.markdown) now?
