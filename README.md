@@ -36,13 +36,13 @@
     -   Espacio de vectores
     -   Kernel de una matriz
     -   Rango de una matriz y la forma escalonada reducida
-    -   Independencia, bases y dimensión
+    -   Independencia, bases y dimensión
     -   Dimensiones de los cuatro subespacios
   
 - Ortogonalidad
     -   Ortogonalidad de los cuatro subespacios
     -   Proyecciones 
-    -  Mínimos cuadrados
+    -   Mínimos cuadrados
     -   Bases ortogonales 
 
 - Autovalores y autovectores
