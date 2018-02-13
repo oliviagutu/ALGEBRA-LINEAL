@@ -17,34 +17,44 @@
 
 # Contenido de la materia
 
-- Vectores
-  -     Combinaciones lineales
-  -     Producto punto
-  -     Matrices
+- Introducción al álgebra lineal
+    -     Combinaciones lineales
+    -     Producto punto
+    -     Matrices
   
 - Sistemas de ecuaciones
   -     Eliminación 
   -     Operaciones con matrices
   -     Inversa de una matriz
   -     Transpuestas y permutaciones
+  -     Matrices definidas positivas
 
 - Espacios vectoriales
-  -  Kernel de una matriz
-  -  Rango de una matriz
-  -  Espacio de soluciones de un sistema
-  -  Independencia, bases y dimensión
-  -  Dimensión de los cuatro subespacios
+  -     Kernel de una matriz
+  -     Rango de una matriz
+  -     Espacio de soluciones de un sistema
+  -     Independencia, bases y dimensión
+  -     Dimensión de los cuatro subespacios
+
 - Ortogonalidad
-  -  Cuatro subespacios
-  -  Proyecciones
-  -  Mínimos cuadrados
-  -  Bases ortogonales y proceso de Gram-Schmidt
+  -     Cuatro subespacios
+  -     Proyecciones
+  -     Mínimos cuadrados
+  -     Bases ortogonales y proceso de Gram-Schmidt
+
 - Introducción a los autovalores y autovectores
+
 - Aplicaciones a la graficación por computadora.
 
 
 
+# Calificación
 
+La calificación del curso se realiza de la siguiente manera:
+
+1. Exámenes semanales/quincenales (70%)
+3. Examen final (20%)
+4. Participación (incluye exposiciones) (10%)
 
 
 ## Ejercicios Unidad 1.
