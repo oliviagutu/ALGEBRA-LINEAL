@@ -23,7 +23,7 @@
     -   Producto punto y norma de un vector
     -   Matrices y funciones lineales
     -   Espacio columna de una matriz
-    -   Espacio de soluciones de una ecuación lineal
+    -   Espacio de soluciones de una ecuación lineal
 
 - Sistemas de ecuaciones lineales
    -    Algoritmo de eliminación gaussiana
@@ -42,7 +42,7 @@
 - Ortogonalidad
     -   Ortogonalidad de los cuatro subespacios
     -   Proyecciones 
-    -   Mínimos cuadrados
+    -  Mínimos cuadrados
     -   Bases ortogonales 
 
 - Autovalores y autovectores
