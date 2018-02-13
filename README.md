@@ -46,11 +46,11 @@
     -   Bases ortogonales 
 
 - Autovalores y autovectores
-  -     Introducción a los autovalores y autovectores
-  -     Potencias de matrices
-  -     Relación con la traza y el determinante
-  -     Matrices simétricas y definidas positivas
-  -     Matrices unitarias
+  - Introducción a los autovalores y autovectores
+  - Potencias de matrices
+  - Relación con la traza y el determinante
+  - Matrices simétricas y definidas positivas
+  - Matrices unitarias
   
 - Aplicaciones selectas
 
