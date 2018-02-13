@@ -18,15 +18,25 @@
 # Contenido de la materia
 
 - Introducción al álgebra lineal
-    -     Combinaciones lineales
-    -     Producto punto
-    -     Matrices
-  
+    -   Combinaciones lineales en dos y tres dimensiones
+    -   Independencia lineal en dos o tres dimensiones
+    -   Producto punto y norma de un vector
+    -   Matrices y funciones lineales
+    -   Espacio columna de una matriz
+    -   Espacio de soluciones de una ecuación lineal
+
+- Sistemas de ecuaciones lineales
+   -    Algoritmo de eliminación gaussiana
+   -    Matrices de eliminación
+   -    Multiplicación de matrices
+   -    Inversa de una  matriz
+   -    Traspuestas y permutaciones
+
 - Sistemas de ecuaciones
-  -     Eliminación 
-  -     Operaciones con matrices
-  -     Inversa de una matriz
-  -     Transpuestas y permutaciones
+  -     Eliminación 
+  -     Operaciones con matrices
+  -     Inversa de una matriz
+  -     Transpuestas y permutaciones
   -     Matrices definidas positivas
 
 - Espacios vectoriales
@@ -42,9 +52,14 @@
   -     Mínimos cuadrados
   -     Bases ortogonales y proceso de Gram-Schmidt
 
-- Introducción a los autovalores y autovectores
-
-- Aplicaciones a la graficación por computadora.
+- Autovalores y autovectores
+  -     Introducción a los autovalores y autovectores
+  -     Potencias de matrices
+  -     Relación con la traza y el determinante
+  -     Matrices simétricas y definidas positivas
+  -     Matrices unitarias
+  
+- Aplicaciones selectas
 
 
 
