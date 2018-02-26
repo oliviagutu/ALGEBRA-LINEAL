@@ -56,9 +56,4 @@
 
 1.20 Sea A una matriz de nxn tal que A^T=A^{-1} (matriz ortogonal). Demuestre que norm(Ax)=norm(x) para todo x en R^n.
 
- 
- 
 
-
-   
-## Examen 2
