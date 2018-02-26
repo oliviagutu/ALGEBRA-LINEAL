@@ -1,4 +1,4 @@
-# Ejercicios unidad 1
+# Ejercicios unidad 2
 
 2.0 En la clase vimos varios ejemplos de solución de sistemas de ecuaciones lineales. Haz un resumen  que describa el procedimiento en todos los casos (matrices cuadradas, matrices con más renglones que columnas y matrices con más columnas que renglones).
 
