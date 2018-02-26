@@ -79,6 +79,8 @@ La calificación del curso se realiza de la siguiente manera:
   
 [Unidad 1](ejerciciosunidad1.md)
 
+[Unidad 2](ejerciciosunidad2.md)
+
 
 
 
