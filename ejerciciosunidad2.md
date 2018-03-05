@@ -11,7 +11,7 @@
  
  2.3  Sea A una matriz de nxn. Demuestre que si B es una inversa derecha de A, es decir AB=I, donde I es la matriz identidad de nxn, entonces B también es una inversa izquierda, es decir, BA=I. Da un ejemplo donde esto no se cumpla para el caso en que A no sea una matriz cuadrada.
  
- 2.4 Sean A y B matrices con la misma dimensión y C una matriz que se puede multiplicar por la derecha con A (y por tanto con B). Verifique que (A+B)C=AC+AB.
+ 2.4 Sean A y B matrices con la misma dimensión y C una matriz que se puede multiplicar por la derecha con A (y por tanto con B). Verifique que (A+B)C=AC+BC.
  
  2.5 Pruebe o de un contra-ejemplo: "Si AB=B entonces A=I".
  
@@ -52,7 +52,7 @@
 
 2.18 De 5 ejemplos de matrices para las cuales existan varias  inversas por la derecha. De otros 5 ejemplos para los cuales existan varias inversas por la izquierda.
 
-1.19 Sea A cualquier matriz de mxn. Demuestre que siempre existe una matriz B de nxm tal que ABA=A.
+1.19 Sea A cualquier matriz de mxn cuyas columnas formen un conjunto linealmente independiente. Demuestre que siempre existe una matriz B de nxm tal que ABA=A.
 
 1.20 Sea A una matriz de nxn tal que A^T=A^{-1} (matriz ortogonal). Demuestre que norm(Ax)=norm(x) para todo x en R^n.
 
