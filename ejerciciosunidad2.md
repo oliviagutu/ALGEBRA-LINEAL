@@ -52,7 +52,7 @@
 
 2.18 De 5 ejemplos de matrices para las cuales existan varias  inversas por la derecha. De otros 5 ejemplos para los cuales existan varias inversas por la izquierda.
 
-1.19 Sea A cualquier matriz de mxn cuyas columnas formen un conjunto linealmente independiente. Demuestre que siempre existe una matriz B de nxm tal que ABA=A.
+1.19 Sea A cualquier matriz de mxn cuyas columnas formen un conjunto linealmente independiente. Demuestre que siempre existe una matriz B de nxm tal que ABA=A. Sugerencia: considera la matriz B=(A^TA)^{-1}A y justifica porqué la matriz A^TA es invertible.
 
 1.20 Sea A una matriz de nxn tal que A^T=A^{-1} (matriz ortogonal). Demuestre que norm(Ax)=norm(x) para todo x en R^n.
 
