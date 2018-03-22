@@ -21,7 +21,7 @@
  * El conjunto de matrices invertibles de 4x4
  * El conjunto de puntos (x,y,z) tales que x+y+z=1
 
-3.3 Encuentra una base y la dimensión de Pol_10, Mat_3x4.
+3.3 Encuentra una base y la dimensión de Pol_10 y de  Mat_3x4.
 
 3.4 Demuestra que imposible encontrar una base con cardinalidad finita para los espacios C[-1,1] y c_0.
 
