@@ -24,6 +24,6 @@
  * El conjunto de puntos (x,y,z) tales que x+y+z=1
  * El conjunto de numeros reales con la suma  y multiplicación por escalar definida como sigue:
  
- x + y = x*y
- 
- α x = x^α 
+     x + y = x*y
+     
+     α x = x^α 
