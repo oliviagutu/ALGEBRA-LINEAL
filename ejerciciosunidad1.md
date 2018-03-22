@@ -50,9 +50,9 @@
     
 1.15 Sea P una matriz con renglones (1,0,0) y (0,1,0):
 
-   * ¿Qué efecto le hace esa matriz al espacio R^3?
-   * ¿Es P una función sobreyectiva?
-   * Verifica que hay una infinidad de matrices R (de *right inverse*) de 3x2 tales que, para todo x en R^2:
+   *  ¿Qué efecto le hace esa matriz al espacio R^3?
+   *  ¿Es P una función sobreyectiva?
+   *  Verifica que hay una infinidad de matrices R (de *right inverse*) de 3x2 tales que, para todo x en R^2:
         P(Rx)=x.
-   * ¿Es P una función inyectiva?
+   *  ¿Es P una función inyectiva?
 
