@@ -51,6 +51,6 @@
     a. ¿Qué efecto le hace esa matriz al espacio R^3?
     b. ¿Es P una función sobreyectiva?
     c. Verifica que hay una infinidad de matrices R (de *right inverse*) de 3x2 tales que, para todo x en R^2:
-    P(Rx)=x.
+        P(Rx)=x.
     d. ¿Es P una función inyectiva?
 
