@@ -22,8 +22,6 @@
  * El conjunto de polinomios de grado igual a 10
  * El conjunto de matrices invertibles de 4x4
  * El conjunto de puntos (x,y,z) tales que x+y+z=1
- * El conjunto de numeros reales con la suma  y multiplicación por escalar definida como sigue:
- 
-     x + y = x*y
-     
-     α x = x^α 
+ * El conjunto de numeros reales con la suma definida por 'x + y = x*y' y   multiplicación por escalar definida por 'α x = x^α'.
+
+3.3 Analiza cada uno de los espacios vectoriales del ejercicio 3.1.  Encuentra para los que puedas una base con un número finito de elementos: esa es la dimensión del espacio. Aquellos espacios para los que es imposible encontrar tal base son de ¡dimensión infinita!
