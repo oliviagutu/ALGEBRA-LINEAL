@@ -48,4 +48,6 @@
 3.12 Demuestra que no puede haber un conjunto de m vectores linealmente independiente en R^n si m>n.
 
 3.13 Considere el conjunto de numeros reales con la suma definida por a + b = a x b y   multiplicación por escalar definida por α a = a^α. ¿Es este conjunto un espacio vectorial?
+
+3.14 Escribe un algoritmo que decida si un conjunto de polinomios en Pol_10 es linealmente independiente o no.
  
