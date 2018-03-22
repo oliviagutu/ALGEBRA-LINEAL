@@ -42,14 +42,11 @@
     
    (a_1+a_2+...+a_n)^2 <= n*(a_1^2+a_2^2+...+a_n^2).
 
-1.14 Sea A una matriz con renglones (1,3,5), (1,2,4) y (2,1,5).
-    * Ecuentra
-    * Escribe
-    * Describe
+1.14 Sea A una matriz con renglones (1,3,5), (1,2,4) y (2,1,5):
 
-    *  Encuentra si existe un vector  b para el cual NO exista un x tal que Ax=b.
-    *  Escribe al conjunto de soluciones de Ax=0 como el generado de un conjunto de vectores.
-    *  Describe geométricamente al conjunto del inciso b.
+   *  Encuentra si existe un vector  b para el cual NO exista un x tal que Ax=b.
+   *  Escribe al conjunto de soluciones de Ax=0 como el generado de un conjunto de vectores.
+   *  Describe geométricamente al conjunto del inciso b.
     
 1.15 Sea P una matriz con renglones (1,0,0) y (0,1,0).
     * ¿Qué efecto le hace esa matriz al espacio R^3?
