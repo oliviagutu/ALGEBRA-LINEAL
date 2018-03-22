@@ -37,7 +37,7 @@
   * El conjunto Sym_4x4 de matrices simétricas de 4x4 es un subespacio de Mat_4x4.
   * El conjunto de funciones continuas y pares definidas sobre [-1,1] es un subespacio de C[-1,1].
   * El conjunto de c_00 de sucesiones de números reales que convergen a 0, con un número finito de elementos distintos de cero es un subespacio de c_0.
-  * El conjunto de vectores en R^8 ortogonales al plano generado por (1,1,0,1,0,0,0,0) y (0,1,0,1,0,0,0,0) es un subespacio de R^8.
+  * El conjunto de vectores en R^8 ortogonales al plano generado por (1,1,0,1,0,0,0,0) y (0,1,0,1,0,0,0,0) es un subespacio de R^8.
 
 3.9 Encuentra la dimensión de cada uno de los subespacios vectoriales del ejercicio 3.8
 
