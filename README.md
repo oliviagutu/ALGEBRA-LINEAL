@@ -69,6 +69,9 @@ La calificación del curso se realiza de la siguiente manera:
 
 - Foro de preguntas y respuestas en matemáticas, incluyendo álgebra lineal:
     -   [Stackexchange](http://cs.stackexchange.com/)
+    
+- Videos para aprender álgebra lineal
+    - [Khanacademy](https://www.khanacademy.org/math/linear-algebra)
 
 - Para practicar procedimientos del álgebra lineal:
     -   [Linear Algebra Toolkit](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi)
