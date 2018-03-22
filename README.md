@@ -84,6 +84,8 @@ La calificación del curso se realiza de la siguiente manera:
 
 [Unidad 2](ejerciciosunidad2.md)
 
+[Unidad 3](ejerciciosunidad3.md)
+
 
 
 
