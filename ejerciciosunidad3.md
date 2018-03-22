@@ -15,7 +15,15 @@
   * El conjunto de sucesiones de números reales {a_1,a_2,a_3,....} que convergen a 0
   * El rango de una matriz cualquiera A
   * El kernel de una matriz cualquiera A
+  * El conjunto de funciones pares definidas sobre [-1,1]
   * El *span* de cualquier conjunto (¡no necesariamente finito!) de vectores de un espacio vectorial 
 
-3.2 Verifica que los siguientes conjuntos NO son espacios vectoriales (con la suma y multiplicación por escalar natural)
-  * 
+3.2 Verifica que los siguientes conjuntos NO son espacios vectoriales (con la suma y multiplicación por escalar natural, a menos que se diga lo contrario)
+ * El conjunto de polinomios de grado igual a 10
+ * El conjunto de matrices invertibles de 4x4
+ * El conjunto de puntos (x,y,z) tales que x+y+z=1
+ * El conjunto de numeros reales con la suma  y multiplicación por escalar definida como sigue:
+ 
+ x + y = x*y
+ 
+ α x = x^α 
