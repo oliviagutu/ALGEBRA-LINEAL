@@ -50,4 +50,6 @@
 3.13 Considere el conjunto de numeros reales con la suma definida por a + b = a x b y   multiplicación por escalar definida por α a = a^α. ¿Es este conjunto un espacio vectorial?
 
 3.14 Escribe un algoritmo que decida si un conjunto de polinomios en Pol_10 es linealmente independiente o no.
+
+3.15 Sea V un espacio vectorial (de dimensión finita). Busque en la literatura la demostración de que dos bases de V deben de tener el mismo número de elementos. 
  
