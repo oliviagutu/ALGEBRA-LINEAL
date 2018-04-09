@@ -102,6 +102,8 @@ AXEL WING MORA
 
 - Equipo 2. Tema: Autovalores y autovectores.
 
+Además del libro, material recomendado: (https://es.slideshare.net/guest9006ab/eigenvalues-in-a-nutshell)
+
 *MARIA XIMENA SANDOVAL DEL HOYO*
 
 CHRISTOPHER ARCE DÍAZ
