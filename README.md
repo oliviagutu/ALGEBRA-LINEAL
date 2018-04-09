@@ -46,11 +46,11 @@
     -   Bases ortogonales 
 
 - Autovalores y autovectores
-  - Introducción a los autovalores y autovectores
-  - Potencias de matrices
-  - Relación con la traza y el determinante
-  - Matrices simétricas y definidas positivas
-  - Matrices unitarias
+  - Determinantes
+  - Autovalores y autovectores
+  - Diagonalización de matrices
+  - Matrices simétricas y diagonalización
+  - Descomposición en valores singulares
   
 - Aplicaciones selectas
 
@@ -88,9 +88,9 @@ La calificación del curso se realiza de la siguiente manera:
 
 ## AVISOS IMPORTANTES
 
-- Exposiciones por equipo:
+# Exposiciones por equipo, del 25 de abril al 11 de mayo:
 
-### Equipo 1:
+- Equipo 1.  Tema: Determinantes.
 
 *RAÚL OCTAVIO MURCIA YOCUPICIO*
 
@@ -100,17 +100,7 @@ RAMÓN ÁNGEL LÓPEZ CASTRO
 
 AXEL WING MORA
 
-### Equipo 2:
-
-*CLAUDIA MARIAN LÓPEZ BATRIZ*
-
-MARÍA FERNANDA DOMÍNGUEZ ACOSTA
-
-LUIS ERNENESTO THOMSON MARTÍNEZ
-
-CRISTIAN JESÚS CASANOVA MANZANO
-
-### Equipo 3:
+- Equipo 2. Tema: Autovalores y autovectores.
 
 *MARIA XIMENA SANDOVAL DEL HOYO*
 
@@ -120,7 +110,19 @@ MIGUEL ÁNGEL BERNAL SANCHEZ
 
 VESNA CAMILE PIVAC ALVARAZ
 
-### Equipo 4:
+
+- Equipo 3: Tema: Diagonalización de una matriz.
+
+*CLAUDIA MARIAN LÓPEZ BATRIZ*
+
+MARÍA FERNANDA DOMÍNGUEZ ACOSTA
+
+LUIS ERNENESTO THOMSON MARTÍNEZ
+
+CRISTIAN JESÚS CASANOVA MANZANO
+
+
+- Equipo 4. Tema: Matrices simétricas y diagonalización.
 
 *ADRIÁN LEONARDO SOTO TEQUIDA*
 
@@ -130,7 +132,7 @@ ALAN RAÚL ORTIZ TAMORI
 
 ANDRÉS IVÁN CALVARIO LEÓN
 
-### Equipo 5:
+- Equipo 5. Tema: Descomposición en valores singulares.
 
 *PEDRO ANDRÉS HERNÁNDEZ AMADOR*
 
@@ -140,7 +142,7 @@ JESÚS ENRIQUE ESCOBEDO DEL CASTILLO
 
 GENARDO LEYVA CONDE
 
-### Equipo 6:
+- Equipo 6. Tema: Aplicación a ciencias de la computación.
 
 *LUIS ALBERTO LÓPEZ CRUZ*
 
