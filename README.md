@@ -86,9 +86,9 @@ La calificación del curso se realiza de la siguiente manera:
 
 [Unidad 3](ejerciciosunidad3.md)
 
-## AVISOS IMPORTANTES
+# AVISOS IMPORTANTES
 
-# Exposiciones por equipo, del 25 de abril al 11 de mayo:
+## Exposiciones por equipo, del 25 de abril al 11 de mayo:
 
 - Equipo 1.  Tema: Determinantes.
 
@@ -134,6 +134,8 @@ ANDRÉS IVÁN CALVARIO LEÓN
 
 - Equipo 5. Tema: Descomposición en valores singulares.
 
+Además del libro, lectura recomendada: (http://www.ehu.eus/izaballa/Cursos/valores_singulares.pdf)
+
 *PEDRO ANDRÉS HERNÁNDEZ AMADOR*
 
 JESÚS ÁNGEL CARMONA ÁLVAREZ
@@ -154,7 +156,7 @@ MARCOS ABRAHAM SÁNCHEZ GALINDO
 
 
 
-- Examen final: miércoles 16 de mayo de 2018, 8:00 a.m. Duración 3 horas.
+## Examen final: miércoles 16 de mayo de 2018, 8:00 a.m. Duración 3 horas.
 
 
 
