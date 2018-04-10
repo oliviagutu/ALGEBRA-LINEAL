@@ -92,7 +92,7 @@ La calificación del curso se realiza de la siguiente manera:
 
 - Equipo 1.  Tema: Determinantes.
 
-Además del libro, checar la pregunta y respuesta de (https://math.stackexchange.com/questions/668/whats-an-intuitive-way-to-think-about-the-determinant) para tomarlo como referencia al preparar el material.
+Además del libro, checar la pregunta y respuesta de (https://math.stackexchange.com/questions/668/whats-an-intuitive-way-to-think-about-the-determinant) para tomarlo en cuenta. Mirar también  el video: (https://www.youtube.com/watch?v=xX7qBVa9cQU&feature=youtu.be).
 
 *RAÚL OCTAVIO MURCIA YOCUPICIO*
 
