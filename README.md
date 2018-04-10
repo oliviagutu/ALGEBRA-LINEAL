@@ -150,7 +150,9 @@ JESÚS ENRIQUE ESCOBEDO DEL CASTILLO
 
 GENARDO LEYVA CONDE
 
-- Equipo 6. Tema: Aplicación a ciencias de la computación.
+- Equipo 6. Tema: Descomposición en valores singulares, matriz pseudoinversa y mínimos cuadrados. 
+
+Además del texto, leer con detalle: (http://faculty.rmc.edu/davidclark/math/papers/pseudoinverse.pdf) 
 
 *LUIS ALBERTO LÓPEZ CRUZ*
 
