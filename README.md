@@ -46,11 +46,11 @@
     -   Bases ortogonales 
 
 - Autovalores y autovectores
-  - Determinantes
-  - Autovalores y autovectores
-  - Diagonalización de matrices
-  - Matrices simétricas y diagonalización
-  - Descomposición en valores singulares
+  -     Determinantes
+  -     Autovalores y autovectores
+  -     Diagonalización de matrices
+  -     Matrices simétricas y diagonalización
+  -     Descomposición en valores singulares
   
 - Aplicaciones selectas
 
