@@ -92,7 +92,7 @@ La calificación del curso se realiza de la siguiente manera:
 
 - Equipo 1.  Tema: Determinantes.
 
-Además del libro, checar la pregunta y respuesta de (https://math.stackexchange.com/questions/668/whats-an-intuitive-way-to-think-about-the-determinant) para tomarlo en cuenta. Mirar también  el video: (https://www.youtube.com/watch?v=xX7qBVa9cQU&feature=youtu.be).
+Además del libro, checar la pregunta y respuesta de (https://math.stackexchange.com/questions/668/whats-an-intuitive-way-to-think-about-the-determinant) para tomarlo en cuenta. Mirar también ver los videos: (https://www.youtube.com/watch?v=Ip3X9LOh2dk&t=4s) y  (https://www.youtube.com/watch?v=xX7qBVa9cQU&feature=youtu.be). 
 
 *RAÚL OCTAVIO MURCIA YOCUPICIO*
 
@@ -104,7 +104,7 @@ AXEL WING MORA
 
 - Equipo 2. Tema: Autovalores y autovectores.
 
-Además del libro, material recomendado: (https://es.slideshare.net/guest9006ab/eigenvalues-in-a-nutshell). Algunas animaciones para visualizarlas: (http://setosa.io/ev/eigenvectors-and-eigenvalues/)
+Además del libro, material recomendado: (https://es.slideshare.net/guest9006ab/eigenvalues-in-a-nutshell). Algunas animaciones para visualizarlas: (http://setosa.io/ev/eigenvectors-and-eigenvalues/). Ver también el videos (https://www.youtube.com/watch?v=ighcncy6qQ8) y (https://www.youtube.com/watch?v=DzqE7tj7eIM)
 
 *MARIA XIMENA SANDOVAL DEL HOYO*
 
@@ -117,7 +117,7 @@ VESNA CAMILE PIVAC ALVARAZ
 
 - Equipo 3: Tema: Diagonalización de una matriz.
 
-Además del texto, recomiendo echarle un ojo a:  (https://math.stackexchange.com/questions/193460/a-matrix-is-diagonalizable-so-what?rq=1). También ver las primeras secciones de (http://people.math.gatech.edu/~ecroot/recurrence_notes2.pdf) para poner un ejemplo de uso.
+Además del texto, recomiendo echarle un ojo a:  (https://math.stackexchange.com/questions/193460/a-matrix-is-diagonalizable-so-what?rq=1). Ver el video (https://www.youtube.com/watch?v=U8R54zOTVLw). También ver las primeras secciones de (http://people.math.gatech.edu/~ecroot/recurrence_notes2.pdf) para poner un ejemplo de uso.
 
 *CLAUDIA MARIAN LÓPEZ BATRIZ*
 
