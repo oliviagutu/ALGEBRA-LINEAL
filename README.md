@@ -92,6 +92,8 @@ La calificación del curso se realiza de la siguiente manera:
 
 - Equipo 1.  Tema: Determinantes.
 
+Además del libro, checar la pregunta y respuesta de (https://math.stackexchange.com/questions/668/whats-an-intuitive-way-to-think-about-the-determinant) para tomarlo como referencia al preparar el material.
+
 *RAÚL OCTAVIO MURCIA YOCUPICIO*
 
 JESÚS EMANUEL VIDAL LÓPEZ
