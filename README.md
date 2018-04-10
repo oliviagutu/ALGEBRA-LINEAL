@@ -140,7 +140,7 @@ ANDRÉS IVÁN CALVARIO LEÓN
 
 - Equipo 5. Tema: Descomposición en valores singulares.
 
-Además del libro, lectura recomendada: (http://www.ehu.eus/izaballa/Cursos/valores_singulares.pdf)
+Además del libro, lectura recomendada: (http://www.ehu.eus/izaballa/Cursos/valores_singulares.pdf). Ver el video: (https://www.youtube.com/watch?v=mBcLRGuAFUk).
 
 *PEDRO ANDRÉS HERNÁNDEZ AMADOR*
 
@@ -152,7 +152,7 @@ GENARDO LEYVA CONDE
 
 - Equipo 6. Tema: Descomposición en valores singulares, matriz pseudoinversa y mínimos cuadrados. 
 
-Además del texto, leer con detalle y contrastar con: (http://faculty.rmc.edu/davidclark/math/papers/pseudoinverse.pdf). Echar un ojo a (https://ac.els-cdn.com/S0377042708005062/1-s2.0-S0377042708005062-main.pdf?_tid=70b4cdad-dd4e-4d73-bca1-d827f6c54a56&acdnat=1523392322_3a186d9dfd6d1a0af7acdcbcd9acd25d)
+Además del texto, leer con detalle y contrastar con: (http://faculty.rmc.edu/davidclark/math/papers/pseudoinverse.pdf).  Ver el vídeo: (https://www.youtube.com/watch?v=cOUTpqlX-Xs). Echar un ojo a (https://ac.els-cdn.com/S0377042708005062/1-s2.0-S0377042708005062-main.pdf?_tid=70b4cdad-dd4e-4d73-bca1-d827f6c54a56&acdnat=1523392322_3a186d9dfd6d1a0af7acdcbcd9acd25d)
 
 *LUIS ALBERTO LÓPEZ CRUZ*
 
