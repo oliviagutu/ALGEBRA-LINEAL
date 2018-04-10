@@ -104,7 +104,7 @@ AXEL WING MORA
 
 - Equipo 2. Tema: Autovalores y autovectores.
 
-Además del libro, material recomendado: (https://es.slideshare.net/guest9006ab/eigenvalues-in-a-nutshell)
+Además del libro, material recomendado: (https://es.slideshare.net/guest9006ab/eigenvalues-in-a-nutshell). Algunas animaciones para visualizarlas: (http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 
 *MARIA XIMENA SANDOVAL DEL HOYO*
 
@@ -116,6 +116,8 @@ VESNA CAMILE PIVAC ALVARAZ
 
 
 - Equipo 3: Tema: Diagonalización de una matriz.
+
+Además del texto, recomiendo echarle un ojo a:  (https://math.stackexchange.com/questions/193460/a-matrix-is-diagonalizable-so-what?rq=1). También ver las primeras secciones de (http://people.math.gatech.edu/~ecroot/recurrence_notes2.pdf) para poner un ejemplo de uso.
 
 *CLAUDIA MARIAN LÓPEZ BATRIZ*
 
