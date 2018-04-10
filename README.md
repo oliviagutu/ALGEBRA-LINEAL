@@ -152,7 +152,7 @@ GENARDO LEYVA CONDE
 
 - Equipo 6. Tema: Descomposición en valores singulares, matriz pseudoinversa y mínimos cuadrados. 
 
-Además del texto, leer con detalle: (http://faculty.rmc.edu/davidclark/math/papers/pseudoinverse.pdf) 
+Además del texto, leer con detalle y contrastar con: (http://faculty.rmc.edu/davidclark/math/papers/pseudoinverse.pdf) 
 
 *LUIS ALBERTO LÓPEZ CRUZ*
 
