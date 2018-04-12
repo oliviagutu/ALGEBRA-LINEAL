@@ -114,6 +114,8 @@ MIGUEL ÁNGEL BERNAL SANCHEZ
 
 VESNA CAMILE PIVAC ALVARAZ
 
+JESÚS ERNESTO PESQUEIRA VASQUEZ
+
 
 - Equipo 3: Tema: Diagonalización de una matriz.
 
@@ -129,6 +131,8 @@ CRISTIAN JESÚS CASANOVA MANZANO
 
 
 - Equipo 4. Tema: Matrices simétricas y diagonalización.
+
+Además del texto, consultar: (http://www.math.ubc.ca/~carrell/307_chap10.pdf). Ver el video (https://www.youtube.com/watch?v=ZTNniGvY5IQ).
 
 *ADRIÁN LEONARDO SOTO TEQUIDA*
 
@@ -146,9 +150,9 @@ Además del libro, lectura recomendada: (http://www.ehu.eus/izaballa/Cursos/valo
 
 JESÚS ÁNGEL CARMONA ÁLVAREZ
 
-JESÚS ENRIQUE ESCOBEDO DEL CASTILLO
-
 GENARDO LEYVA CONDE
+
+ELISABETH FRANCO VALENCIA 
 
 - Equipo 6. Tema: Descomposición en valores singulares, matriz pseudoinversa y mínimos cuadrados. 
 
@@ -158,9 +162,12 @@ Además del texto, leer con detalle y contrastar con: (http://faculty.rmc.edu/da
 
 LUIS FERNANDO HINOJOSA TRUJILLO
 
-ALEXIS DÍAZ SIXTO
-
 MARCOS ABRAHAM SÁNCHEZ GALINDO
+
+OSVER MANUEL RODRÍGUEZ MORENO
+
+HUGO ALBERTO EGUINO ARÁMBULA
+
 
 
 
