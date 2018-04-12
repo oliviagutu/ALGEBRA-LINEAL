@@ -142,6 +142,8 @@ ALAN RAÚL ORTIZ TAMORI
 
 ANDRÉS IVÁN CALVARIO LEÓN
 
+FRANCISCO ANTONIO AGUAYO LEYVA
+
 - Equipo 5. Tema: Descomposición en valores singulares.
 
 Además del libro, lectura recomendada: (http://www.ehu.eus/izaballa/Cursos/valores_singulares.pdf). Ver el video: (https://www.youtube.com/watch?v=mBcLRGuAFUk).
@@ -153,6 +155,8 @@ JESÚS ÁNGEL CARMONA ÁLVAREZ
 GENARDO LEYVA CONDE
 
 ELISABETH FRANCO VALENCIA 
+
+
 
 - Equipo 6. Tema: Descomposición en valores singulares, matriz pseudoinversa y mínimos cuadrados. 
 
