@@ -173,7 +173,7 @@ OSVER MANUEL RODRÍGUEZ MORENO
 HUGO ALBERTO EGUINO ARÁMBULA
 
 
-## Examen final: miércoles 16 de mayo de 2018, 8:00 a.m. Duración 3 horas.
+## Examen final: miércoles 16 de mayo de 2018, 8:00-12:00 hrs.
 
 
 
