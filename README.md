@@ -88,7 +88,7 @@ La calificación del curso se realiza de la siguiente manera:
 
 # AVISOS IMPORTANTES
 
-## Exposiciones por equipo, del 30 de abril al 11 de mayo:
+## Exposiciones por equipo, del 7 de mayo al 18 de mayo:
 
 - Equipo 1.  Tema: Determinantes.
 
@@ -173,7 +173,7 @@ OSVER MANUEL RODRÍGUEZ MORENO
 HUGO ALBERTO EGUINO ARÁMBULA
 
 
-## Examen final: miércoles 16 de mayo de 2018, 8:00-12:00 hrs.
+## Examen final: miércoles 23 de mayo de 2018, 8:00-12:00 hrs.
 
 
 
