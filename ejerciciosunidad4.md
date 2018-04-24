@@ -8,3 +8,5 @@
 4.1 Sea A la matriz con renglones (1,0,1) y (1,2,0). Sea b = (0,-1)^T. Encuentra el conjunto S de soluciones de Ax = b en términos del Ker A. ¿Qué dimensión tiene este conjunto de soluciones?
 
 4.2 Haz lo mismo que en el ejercicio 4.1 pero con b = (1,-1)^T. ¿Cambia la dimensión de S?
+
+4.3 Escribe un algoritmo tal que dada una matriz A y un vector b, encuentre una solución de Ax = b si existe.. pseudoinverse...
