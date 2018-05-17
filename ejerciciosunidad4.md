@@ -32,7 +32,7 @@ Sugerencia: Para probar que Ker A = {0} implica A^TA es invertible pruebe que (A
 
 4.9 Suponga que las columunas de la matriz A en el algoritmo de mínimos cuadrados no son linealmente independientes. ¿Podría encontrar una matriz B tal que P=B(B^TB)B^T es la proyección sobre Ran A (la fórmula usual falla, pues A^TA no es invertible).
 
-4.10 Encuentra una función lineal que a cada punto b en R^3 lo envía a su proyección sobre el plano perpendicular a (1, 1 ,1).
+4.10 Encuentra una función lineal que a cada punto b en R^3 lo envía a su proyección sobre el plano perpendicular al punto (1, 1 ,1).
 
 4.11 Sea {v_1,v_2, ... v_n} un conjunto de vectores ortogonales. Prueba que si todos los v_i son diferentes de cero, entonces este conjunto es linealmente independiente.
 
@@ -41,5 +41,5 @@ Sugerencia: Para probar que Ker A = {0} implica A^TA es invertible pruebe que (A
 4.13 Supongamos que la matriz  A en el algoritmo de mínimos cuadrados es una matriz ortogonal. Demuestra que este caso la matriz de proyección sobre Ran A es P=AA^T.
 
 
-Nota: La matriz A asociada al problema de mínimos cuadrados es la llamada matriz de Vandermonde, revisar internet y las notas de clase.
+ **Nota: La matriz A asociada al problema de mínimos cuadrados es la llamada matriz de Vandermonde, revisar internet y las notas de clase.
 
