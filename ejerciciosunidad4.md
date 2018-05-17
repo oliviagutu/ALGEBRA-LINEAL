@@ -17,7 +17,12 @@ y (3,1,0)^T. Encuentra el punto de S más cercano a b = (2,2,2).
 4.4 Escribe un algoritmo tal que dada una matriz A y un vector b, encuentre la mejor "solución"  correspondiente al sistema: 
  Ax = b. Es decir, el punto x tal que Ax está más cerca de b.
  
-4.5 Prueba que si $A$ es una matriz con columnas linealmente independientes entonces A^TA es invertible. Sugerencia: pruebe que (A^TA)x=0 implica x=0.
+4.5 Sea A una matriz cualquiera. Prueba que las siguientes afirmacines son equivalentes:
+  * A es una matriz con columnas linealmente independientes
+  * Ker A = {0}
+  * A^TA es invertible. 
+
+Sugerencia: Para probar que A^TA es invertible pruebe que (A^TA)x=0 implica x=0.
 
 4.6 Considera el conjunto de datos {(0,2),(1,8),(2,8),(1,5),(3,4)}. Encuentra la línea recta a_1x+a_0 que mejor ajuste a los datos en el sentido de mínimos cruadrados.
 
