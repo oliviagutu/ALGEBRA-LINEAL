@@ -43,7 +43,7 @@
     -   Ortogonalidad de los cuatro subespacios
     -   Proyecciones 
     -   Mínimos cuadrados
-    -   Bases ortogonales 
+    -   Matrices ortogonales y descomposición QR 
 
 - Autovalores y autovectores
     -   Determinantes
