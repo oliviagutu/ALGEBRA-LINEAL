@@ -18,7 +18,7 @@ y (3,1,0)^T. Encuentra el punto de S más cercano a b = (2,2,2).
  Ax = b. Es decir, el punto x tal que Ax está más cerca de b.
  
 4.5 Sea A una matriz cualquiera. Prueba que las siguientes afirmacines son equivalentes:
-  * A es una matriz con columnas linealmente independientes
+  * A es una matriz con columnas linealmente independientes.
   * Ker A = {0}
   * A^TA es invertible. 
 
@@ -30,5 +30,13 @@ Sugerencia: Para probar que Ker A = {0} implica A^TA es invertible pruebe que (A
 
 4.8 Da el ejemplo de un conjunto de datos 100 para el cual falle el algoritmo de mínimos cuadrados para ajustar una recta. ¿Qué condición se requiere pedir a los datos para asegurar el éxito?
 
-4.9 Suponga que las columunas de la matriz A en el algoritmo de mínimos cuadrados no son linealmente independientes. ¿Podría encontrar una matriz B tal que P=B(B^TB)B^T es la proyección sobre Ran A (la fórmula usual falla, pues A^TA no es invertible)
+4.9 Suponga que las columunas de la matriz A en el algoritmo de mínimos cuadrados no son linealmente independientes. ¿Podría encontrar una matriz B tal que P=B(B^TB)B^T es la proyección sobre Ran A (la fórmula usual falla, pues A^TA no es invertible).
+
+4.10 Encuentra una función lineal que a cada punto b en R^3 lo envía a su proyección sobre el plano perpendicular a (1, 1 ,1).
+
+4.11 Sea {v_1,v_2, ... v_n} un conjunto de vectores ortogonales. Prueba que si todos los v_i son diferentes de cero, entonces este conjunto es linealmente independiente.
+
+4.12 Sea Q una matriz ortogonal. Demuestra que norm(Qx)=norm(x) para todo x en el dominio de Q. Esto quiere decir que bajo Q el vector x no cambia de norma. Da 5 ejemplos de matrices ortogonales. 
+
+4.13 Supongamos que la matriz  A en el algoritmo de mínimos cuadrados es una matriz ortogonal. Demuestra que este caso la matriz de proyección sobre Ran A es P=AA^T.
 
