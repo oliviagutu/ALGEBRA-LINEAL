@@ -40,6 +40,14 @@ Sugerencia: Para probar que Ker A = {0} implica A^TA es invertible pruebe que (A
 
 4.13 Supongamos que la matriz  A en el algoritmo de mínimos cuadrados es una matriz ortogonal. Demuestra que este caso la matriz de proyección sobre Ran A es P=AA^T.
 
+4.14 (Gram-Schmidt algorithm) Sea {v_1, v_2, ... v_m} con conjunto linealmente independiente de vectores en R^n. Se puede "ortonormalizar" este conjunto, es decir construir encontrar un conjunto {q_1, q_2, ... q_m} ortonormal a partir de los vectores v_i. El algoritmo es el siguiente:
+
+q_1 = v_1
+
+q_2 = v_2 - <v_2,q_1>/<q_1,q_1> q_1
+
+
+
 
  **Nota: La matriz A asociada al problema de mínimos cuadrados es la llamada matriz de Vandermonde, revisar internet y las notas de clase.
 
