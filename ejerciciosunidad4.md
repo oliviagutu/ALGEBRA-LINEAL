@@ -40,3 +40,6 @@ Sugerencia: Para probar que Ker A = {0} implica A^TA es invertible pruebe que (A
 
 4.13 Supongamos que la matriz  A en el algoritmo de mínimos cuadrados es una matriz ortogonal. Demuestra que este caso la matriz de proyección sobre Ran A es P=AA^T.
 
+
+Nota: La matriz A asociada al problema de mínimos cuadrados es la llamada matriz de Vandermonde, revisar internet y las notas de clase.
+
