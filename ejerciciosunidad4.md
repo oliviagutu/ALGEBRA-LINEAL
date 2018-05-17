@@ -56,7 +56,7 @@ Demuestra que el conjunto construido es ortogonal.
 
 4.15 Usando el proceso de Gram-Schmidt anterior, ortogonaliza el conjunto de vectores {(1,-1,0), (2,0,-2), (1,-3,3)}.
 
-4.16 
+4.16 Sea A = (v_1, v_2 --- v_m) una matriz de n x m con m columnas v_i de n entradas, linealmente independientes.
 
 
  **Nota: La matriz A asociada al problema de mínimos cuadrados es la llamada matriz de Vandermonde, revisar internet y las notas de clase.
