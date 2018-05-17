@@ -36,7 +36,7 @@ Sugerencia: Para probar que Ker A = {0} implica A^TA es invertible pruebe que (A
 
 4.11 Sea {v_1,v_2, ... v_n} un conjunto de vectores ortogonales. Prueba que si todos los v_i son diferentes de cero, entonces este conjunto es linealmente independiente.
 
-4.12 Sea Q una matriz ortogonal. Demuestra que norm(Qx)=norm(x) para todo x en el dominio de Q. Esto quiere decir que bajo Q el vector x no cambia de norma. Da 5 ejemplos de matrices ortogonales. 
+4.12 Sea Q una matriz ortogonal. Demuestra que norm(Qx) = norm(x) para todo x en el dominio de Q. Esto quiere decir que bajo Q el vector x no cambia de norma. Da 5 ejemplos de matrices ortogonales. 
 
 4.13 Supongamos que la matriz  A en el algoritmo de mínimos cuadrados es una matriz ortogonal. Demuestra que este caso la matriz de proyección sobre Ran A es P=AA^T.
 
@@ -45,6 +45,12 @@ Sugerencia: Para probar que Ker A = {0} implica A^TA es invertible pruebe que (A
 q_1 = v_1
 
 q_2 = v_2 - <v_2,q_1>/<q_1,q_1> q_1
+
+q_3 = v_3 - <v_3,q_1>/<q_1,q_1> q_1 - <v_3, q_2>/<q_2,q_2> q_2
+
+...
+
+q_m = v_m - Sum_(i=1)^(m-1) <q_m,q_i>/<q_i,q_i> q_i
 
 
 
