@@ -17,4 +17,13 @@ y (3,1,0)^T. Encuentra el punto de S más cercano a b = (2,2,2).
 4.4 Escribe un algoritmo tal que dada una matriz A y un vector b, encuentre la mejor "solución"  correspondiente al sistema: 
  Ax = b. Es decir, el punto x tal que Ax está más cerca de b.
  
+4.5 Prueba que si $A$ es una matriz con columnas linealmente independientes entonces A^TA es invertible. Sugerencia: pruebe que (A^TA)x=0 implica x=0.
+
+4.6 Considera el conjunto de datos {(0,2),(1,8),(2,8),(1,5),(3,4)}. Encuentra la línea recta a_1x+a_0 que mejor ajuste a los datos en el sentido de mínimos cruadrados.
+
+4.7 Con los mismos datos que en el ejercicio anterior, encuentra una parábola a_2x^2+a_1x+a_0 que mejor ajuste a los datos en el sentido de mínimos cuadrados. ¿Cuáles son tus conclusiones al comparar los resultados del ejercicio anterior en comparación a este?
+
+4.8 Da el ejemplo de un conjunto de datos 100 para el cual falle el algoritmo de mínimos cuadrados para ajustar una recta. ¿Qué condición se requiere pedir a los datos para asegurar el éxito?
+
+4.9 Suponga que las columunas de la matriz A en el algoritmo de mínimos cuadrados no son linealmente independientes. ¿Podría encontrar una matriz B tal que P=B(B^TB)B^T es la proyección sobre Ran A (la fórmula usual falla, pues A^TA no es invertible)
 
