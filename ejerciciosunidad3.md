@@ -59,3 +59,5 @@
 3 bidimensional (un plano que pasa por el origen). Considere el conjunto H = span{v,w} + u donde u=(1,1,1). Es decir, H es un hiperplano. Encuentra la ecuación correspondiente a este hiperplano, es decir, una ecuación tal que el conjunto de soluciones sea justamente H. 
 
 3.18 Considere el sistema de ecuaciones Az=b (★), con matriz A y vector b fijos. Demuestra que el conjunto de soluciones de (★) es igual al conjunto de vectores de la forma z = x + x_0 donde x está en el Kernel de A y x_0 es una solución de (★). ¿Qué significa esto geométricamente?
+
+3.19 Demuestre que la dim Ran A = dim Ran A^T.
