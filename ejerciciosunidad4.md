@@ -22,7 +22,7 @@ y (3,1,0)^T. Encuentra el punto de S más cercano a b = (2,2,2).
   * Ker A = {0}
   * A^TA es invertible. 
 
-Sugerencia: Para probar que A^TA es invertible pruebe que (A^TA)x=0 implica x=0.
+Sugerencia: Para probar que Ker A = {0} implica A^TA es invertible pruebe que (A^TA)x=0 implica x=0.
 
 4.6 Considera el conjunto de datos {(0,2),(1,8),(2,8),(1,5),(3,4)}. Encuentra la línea recta a_1x+a_0 que mejor ajuste a los datos en el sentido de mínimos cruadrados.
 
