@@ -74,6 +74,8 @@ Demuestra que el conjunto construido es ortogonal.
  
  (<q_1, v_m>, <q_2, v_m>, <q_3, v_m>, <q_4, v_m> ––– , <q_m, v_m>)^T 
  
+ 4.17 Encuentra la descomposición QR de la matriz con columnas (1,-1,0), (2,0,-2), (1,-3,3).
+ 
  
 
 
