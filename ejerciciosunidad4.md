@@ -48,7 +48,9 @@ u_2 = v_2 - <v_2,u_1>/<u_1,u_1> u_1
 
 u_3 = v_3 - <v_3,u_1>/<u_1,u_1> u_1 - <v_3, u_2>/<u_2,u_2> u_2
 
-...
+.
+.
+.
 
 u_m = v_m - Sum_(i=1)^(m-1) <v_m,u_i>/<u_i,u_i> u_i
 
@@ -56,7 +58,9 @@ Demuestra que el conjunto construido es ortogonal.
 
 4.15 Usando el proceso de Gram-Schmidt anterior, ortogonaliza el conjunto de vectores {(1,-1,0), (2,0,-2), (1,-3,3)}.
 
-4.16 Sea A = (v_1, v_2 --- v_m) una matriz de n x m con m columnas v_i de n entradas, linealmente independientes.
+4.16 Sea A = (v_1, v_2 ––– v_m) una matriz de n x m con m columnas v_i de n entradas, linealmente independientes. Sea {u_1, u_2, ... u_m} el conjunto ortogonal que resulta de aplicarle al conjunto de columnas de A el proceso de ortogonalización de Gram-Scmidt. Para cada i = 1,2, ..., m sea q_i = u_i/norm (u_i). Sea Q = (q_1, q_2, ––– q_m).
+ * Verifica que la matriz  Q es ortogonal
+ * Sea R la matriz con columnas ()
 
 
  **Nota: La matriz A asociada al problema de mínimos cuadrados es la llamada matriz de Vandermonde, revisar internet y las notas de clase.
