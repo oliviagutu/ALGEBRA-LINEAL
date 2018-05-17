@@ -54,6 +54,8 @@ q_m = v_m - Sum_(i=1)^(m-1) <q_m,q_i>/<q_i,q_i> q_i
 
 Demuestra que el conjunto construido es ortogonal.
 
+4.15 Usando el proceso de Gram-Schmidt anterior, ortogonaliza el conjunto de vectores {(1,-1,0), (2,0,-2), (1,-3,3)}.
+
 
  **Nota: La matriz A asociada al problema de mínimos cuadrados es la llamada matriz de Vandermonde, revisar internet y las notas de clase.
 
