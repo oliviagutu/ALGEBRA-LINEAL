@@ -58,7 +58,7 @@ Demuestra que el conjunto construido es ortogonal.
 
 4.15 Usando el proceso de Gram-Schmidt anterior, ortogonaliza el conjunto de vectores {(1,-1,0), (2,0,-2), (1,-3,3)}.
 
-4.16 Sea A = (v_1, v_2 ––– v_m) una matriz de n x m con m columnas v_i de n entradas, linealmente independientes. Sea {u_1, u_2, ... u_m} el conjunto ortogonal que resulta de aplicarle al conjunto de columnas de A el proceso de ortogonalización de Gram-Scmidt. Para cada i = 1,2, ..., m sea q_i = u_i/norm (u_i). Sea Q = (q_1, q_2, ––– q_m).
+4.16 Sea A = (v_1  v_2  –––  v_m) una matriz de n x m con m columnas v_i de n entradas, linealmente independientes. Sea {u_1, u_2, ... u_m} el conjunto ortogonal que resulta de aplicarle al conjunto de columnas de A el proceso de ortogonalización de Gram-Scmidt. Para cada i = 1,2, ..., m sea q_i = u_i/norm (u_i). Sea Q = (q_1  q_2  ––– q_m).
  * Verifica que la matriz  Q es ortogonal
  * Sea R la matriz  triangular superior con columnas (<q_1, v_1>, 0, ––– , 0)^T, (<q_1, v_2>,<q_2, v_2>, ––– , 0)^T, ...
  (<q_1, v_m>,<q_2, v_m>, ––– , <q_m, v_m>)^T. Prueba que A = QR.
