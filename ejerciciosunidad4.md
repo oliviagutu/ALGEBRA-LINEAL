@@ -66,7 +66,8 @@ Demuestra que el conjunto construido es ortogonal.
  
  (<q_1, v_2>, <q_2, v_2>, 0, ––– , 0)^T
  
-  (<q_1, v_3>, <q_2, v_3>, <q_3, v_3>, 0, ––– , 0)^T
+ (<q_1, v_3>, <q_2, v_3>, <q_3, v_3>, 0, ––– , 0)^T
+  
  .
  .
  .
