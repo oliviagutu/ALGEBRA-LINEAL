@@ -21,6 +21,8 @@ ver e. g. (http://www.ohiouniversityfaculty.com/youngt/IntNumMeth/lecture17.pdf)
 
 ABx = Aβx = βAx = β𝞴x
 
+(Recuerda β𝞴 es un valor propio de AB si y solo si AB = BA)
+
 5.6 Sea A una matriz de n x n. Suponga que Ax = 𝞴x. Si 𝞴 = 0 entonces x esta en Ker A. Si 𝞴 ≠ 0 entonces x pertenece a Ran A. La suma de las dimensiones del Ker A y Ran A suman n, ¿porqué esto no asegura que la matriz A tiene n vectores propios linealmente independientes? 
 
 5.7 Da el ejemplo de una matriz de 3 x 3 que no sea diagonalizable.
