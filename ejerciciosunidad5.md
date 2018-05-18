@@ -21,4 +21,4 @@ ver e. g. (http://www.ohiouniversityfaculty.com/youngt/IntNumMeth/lecture17.pdf)
 
 5.5. Si β es un valor propio  de B y 𝞴 es un valor propio de A entonces  β𝞴 NO necesariamente es un valor propio de AB. ¿Qué hay mal en la siguiente demostración-*fake*:
 
-ABx = Aβx = βAx = βx
+ABx = Aβx = βAx = β𝞴x
