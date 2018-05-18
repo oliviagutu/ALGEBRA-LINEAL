@@ -2,9 +2,9 @@
 
 5.0 Considera las siguientes matrices ortogonales:
 
-  * con renglones: (cos t, sin t) y (sin t, cos t) (matriz de rotación)
+  * con renglones: (cos t, sin t) y (sin t, cos t) (matriz de rotación)
   
-  * con renglones: (cos t, sin t) y (sin t , -cos t) (matriz de reflexión)
+  * con renglones: (cos t, sin t) y (sin t , -cos t) (matriz de reflexión)
   
   * con renglones: (0,1) y (1,0) (matriz de permutación)
 
