@@ -131,7 +131,7 @@ MARÍA FERNANDA DOMÍNGUEZ ACOSTA
 
 LUIS ERNENESTO THOMSON MARTÍNEZ
 
-CRISTIAN JESÚS CASANOVA MANZANO
+CRISTIAN JESÚS CASANOVA MANZANO * NO PARTICIPÓ
 
 
 - Equipo 4. Tema: Matrices simétricas y diagonalización.
@@ -142,11 +142,11 @@ Además del texto, consultar: (http://www.math.ubc.ca/~carrell/307_chap10.pdf). 
 
 NICOLE CASTILLO MANCHADO
 
-ALAN RAÚL ORTIZ TAMORI
+ALAN RAÚL ORTIZ TAMORI  * NO PARTICIPÓ
 
 ANDRÉS IVÁN CALVARIO LEÓN
 
-FRANCISCO ANTONIO AGUAYO LEYVA
+FRANCISCO ANTONIO AGUAYO LEYVA * NO PARTICIPÓ
 
 - Equipo 5. Tema: Descomposición en valores singulares.
 
@@ -158,9 +158,10 @@ JESÚS ÁNGEL CARMONA ÁLVAREZ
 
 GENARDO LEYVA CONDE
 
-ELISABETH FRANCO VALENCIA 
+ELISABETH FRANCO VALENCIA * NO PARTICIPÓ
 
 
+# Pendientes hasta el próximo lunes:
 
 - Equipo 6. Tema: Descomposición en valores singulares, matriz pseudoinversa y mínimos cuadrados. 
 
