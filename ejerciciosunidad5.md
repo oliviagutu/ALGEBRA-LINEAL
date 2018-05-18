@@ -3,8 +3,10 @@
 5.0 Considera las siguientes matrices ortogonales:
 
   * con renglones: (cos t, sin t) y (sin t, cos t) (matriz de rotación)
+  
   * con renglones: (cos t, sin t) y (sin t , -cos t) (matriz de reflexión)
-  * con renglones: (0,1) y (1,0) (matriz de permutación)
+  
+  * con renglones: (0,1) y (1,0) (matriz de permutación)
 
 Para cada una de ellas, dibuja el efecto que tiene en el plano; calcula su matriz inversa; calcula sus valores propios el conjunto de valores singulares correspondientes a cada valor propio y su determinante.
 
@@ -15,6 +17,8 @@ ver e. g. (http://www.ohiouniversityfaculty.com/youngt/IntNumMeth/lecture17.pdf)
 
 5.3 Sea A una matriz cuadrada. Demuestra que el determinante de A es igual a la multiplicación de sus valores propios. Sugerencia: considere el polinomio característico de A.
 
-5.4 Prueba que si \lamda_1, lamda_2, ..., lamda_n son autovectores todos distintos de una matriz entonces existe n autovectores linealmente independientes.
+5.4 Prueba que vectores propios correspondientes a valores propios diferentes son linealmente independientes.
 
-5.5. Si beta es un autovalor
+5.5. Si β es un valor propio  de B y 𝞴 es un valor propio de A entonces  β𝞴 NO necesariamente es un valor propio de AB. ¿Qué hay mal en la siguiente demostración-*fake*:
+
+ABx = Aβx = βAx = βx
