@@ -1,9 +1,11 @@
 # Ejercicios unidad 5
 
 5.0 Considera las siguientes matrices ortogonales:
+
   * con renglones: (cos t, sin t) y (sin t, cos t) (matriz de rotación)
   * con renglones: (cos t, sin t) y (sin t , -cos t) (matriz de reflexión)
   * con renglones: (0,1) y (1,0) (matriz de permutación)
+
 Para cada una de ellas, dibuja el efecto que tiene en el plano; calcula su matriz inversa; calcula sus valores propios el conjunto de valores singulares correspondientes a cada valor propio y su determinante.
 
 5.1  Da el ejemplo de una matriz Q con columnas ortonormales pero tal QQ^T no es la matriz identidad. ¿Es posible encontrar una matriz con estas características cuadrada?
