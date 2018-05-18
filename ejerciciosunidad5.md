@@ -33,4 +33,20 @@ ABx = Aβx = βAx = β𝞴x
 
 5.8 ¿Dónde está el problema con el siguiente razonamiento erróneo? "En vista de los dos ejercicios anteriores podemos concluir que A y A^T admiten la misma diagonalización y por tanto A = A^T"
 
-5.9 
+5.9  Sea A la matriz con renglones (0, 0, 1), (0, 1, 0) y (1, 0, 0). ¿Es posible factorizar a A de la forma QR? ¿Es diagonalizable? ¿Es diagonalizable en términos de una matriz ortogonal?
+
+5.10 Prueba que dos matrices similares comparten:
+
+ * el determinante.
+ * el conjunto de autovalores.
+ * el rango.
+ * el número de posibles vectores propios linealmente independientes
+
+5.11 Encuentra una matriz Q que diagonaliza a la matriz simétrica A con renglones (1,0,2), (0, -1, -2) y (2, -2, 0).
+
+5.12 Encuentra la descomposición en valores singulares de la matriz de las siguientes matrices con renglones:
+
+ * (2, 2) y (-1, 1)
+ * (2, 2) y (1, 1)
+ * (1, 2), (3, 6), (0, 1)
+
