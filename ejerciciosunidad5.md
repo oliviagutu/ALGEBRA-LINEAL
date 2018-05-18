@@ -31,4 +31,6 @@ ABx = Aβx = βAx = β𝞴x
 
 5.9 Da razones por las cuales las matrices A y A^T tienen el mismo conjunto de valores propios.
 
-5.8 ¿Dónde está el problema con el siguiente razonamiento-*fake*? "En vista de los dos ejercicios anteriores podemos concluir que A y A^T admiten la misma diagonalización y por tanto A = A^T"
+5.8 ¿Dónde está el problema con el siguiente razonamiento erróneo? "En vista de los dos ejercicios anteriores podemos concluir que A y A^T admiten la misma diagonalización y por tanto A = A^T"
+
+5.9 
