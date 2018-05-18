@@ -27,4 +27,8 @@ ABx = Aβx = βAx = β𝞴x
 
 5.7 Da el ejemplo de una matriz de 3 x 3 que no sea diagonalizable.
 
-5.8 
+5.8 Verifica que si AA^T=A^TA entonces A y A^T comparten los mismos vectores propios.
+
+5.9 Da razones por las cuales las matrices A y A^T tienen el mismo conjunto de valores propios.
+
+5.8 ¿Dónde está el problema con el siguiente razonamiento-*fake*? "En vista de los dos ejercicios anteriores podemos concluir que A y A^T admiten la misma diagonalización y por tanto A = A^T"
