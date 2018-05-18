@@ -11,6 +11,8 @@ Para cada una de ellas, dibuja el efecto que tiene en el plano; calcula su matri
 5.2 Hay una forma de encontrar los autovalores de una matriz (¡sin usar determinantes!) a través de la descomposición QR,
 ver e. g. (http://www.ohiouniversityfaculty.com/youngt/IntNumMeth/lecture17.pdf). Checa de qué se trata.
 
-5.3 Sea A una matriz cuadrada. Demuestra que el determinante de A es igual a la multiplicación de sus valores propios.
+5.3 Sea A una matriz cuadrada. Demuestra que el determinante de A es igual a la multiplicación de sus valores propios. Sugerencia: considere el polinomio característico de A.
 
-5.? Prueba que si lamda_1, lamda_2, ..., lamda_n son autovectores todos distintos de una matriz entonces existe n autovectores linealmente independientes.
+5.4 Prueba que si \lamda_1, lamda_2, ..., lamda_n son autovectores todos distintos de una matriz entonces existe n autovectores linealmente independientes.
+
+5.5. Si beta es un autovalor
