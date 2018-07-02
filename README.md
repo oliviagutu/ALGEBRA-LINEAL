@@ -90,93 +90,34 @@ La calificación del curso se realiza de la siguiente manera:
 
 [Unidad 5](ejerciciosunidad5.md)
 
-# AVISOS IMPORTANTES
 
-## Exposiciones por equipo, del 7 de mayo al 18 de mayo:
+**Material extra:
 
-- Equipo 1.  Tema: Determinantes.
+Tema: Determinantes.
 
 Además del libro, checar la pregunta y respuesta de (https://math.stackexchange.com/questions/668/whats-an-intuitive-way-to-think-about-the-determinant) para tomarlo en cuenta. Mirar también ver los videos: (https://www.youtube.com/watch?v=Ip3X9LOh2dk&t=4s) y  (https://www.youtube.com/watch?v=xX7qBVa9cQU&feature=youtu.be). 
 
-*RAÚL OCTAVIO MURCIA YOCUPICIO*
-
-JESÚS EMANUEL VIDAL LÓPEZ
-
-RAMÓN ÁNGEL LÓPEZ CASTRO
-
-AXEL WING MORA
-
-- Equipo 2. Tema: Autovalores y autovectores.
+Tema: Autovalores y autovectores.
 
 Además del libro, material recomendado: (https://es.slideshare.net/guest9006ab/eigenvalues-in-a-nutshell). Algunas animaciones para visualizarlas: (http://setosa.io/ev/eigenvectors-and-eigenvalues/). Ver también el videos (https://www.youtube.com/watch?v=ighcncy6qQ8) y (https://www.youtube.com/watch?v=DzqE7tj7eIM)
 
-*MARIA XIMENA SANDOVAL DEL HOYO*
-
-CHRISTOPHER ARCE DÍAZ
-
-MIGUEL ÁNGEL BERNAL SANCHEZ
-
-VESNA CAMILE PIVAC ALVARAZ
-
-JESÚS ERNESTO PESQUEIRA VASQUEZ
-
-
-- Equipo 3: Tema: Diagonalización de una matriz.
+Tema: Diagonalización de una matriz.
 
 Además del texto, recomiendo echarle un ojo a:  (https://math.stackexchange.com/questions/193460/a-matrix-is-diagonalizable-so-what?rq=1). Ver el video (https://www.youtube.com/watch?v=U8R54zOTVLw). También ver las primeras secciones de (http://people.math.gatech.edu/~ecroot/recurrence_notes2.pdf) para poner un ejemplo de uso.
 
-*CLAUDIA MARIAN LÓPEZ BATRIZ*
-
-MARÍA FERNANDA DOMÍNGUEZ ACOSTA
-
-LUIS ERNENESTO THOMSON MARTÍNEZ
-
-CRISTIAN JESÚS CASANOVA MANZANO * NO PARTICIPÓ
-
-
-- Equipo 4. Tema: Matrices simétricas y diagonalización.
+Tema: Matrices simétricas y diagonalización.
 
 Además del texto, consultar: (http://www.math.ubc.ca/~carrell/307_chap10.pdf). Ver el video (https://www.youtube.com/watch?v=ZTNniGvY5IQ).
 
-*ADRIÁN LEONARDO SOTO TEQUIDA*
-
-NICOLE CASTILLO MANCHADO
-
-ALAN RAÚL ORTIZ TAMORI  * NO PARTICIPÓ
-
-ANDRÉS IVÁN CALVARIO LEÓN
-
-FRANCISCO ANTONIO AGUAYO LEYVA * NO PARTICIPÓ
-
-- Equipo 5. Tema: Descomposición en valores singulares.
+Tema: Descomposición en valores singulares.
 
 Además del libro, lectura recomendada: (http://www.ehu.eus/izaballa/Cursos/valores_singulares.pdf). Ver el video: (https://www.youtube.com/watch?v=mBcLRGuAFUk).
 
-*PEDRO ANDRÉS HERNÁNDEZ AMADOR*
-
-JESÚS ÁNGEL CARMONA ÁLVAREZ
-
-GENARDO LEYVA CONDE
-
-ELISABETH FRANCO VALENCIA * NO PARTICIPÓ
-
-
-- Equipo 6. Tema: Descomposición en valores singulares, matriz pseudoinversa y mínimos cuadrados. 
+Tema: Descomposición en valores singulares, matriz pseudoinversa y mínimos cuadrados. 
 
 Además del texto, leer con detalle y contrastar con: (http://faculty.rmc.edu/davidclark/math/papers/pseudoinverse.pdf).  Ver el video: (https://www.youtube.com/watch?v=cOUTpqlX-Xs). Echar un ojo a (https://ac.els-cdn.com/S0377042708005062/1-s2.0-S0377042708005062-main.pdf?_tid=70b4cdad-dd4e-4d73-bca1-d827f6c54a56&acdnat=1523392322_3a186d9dfd6d1a0af7acdcbcd9acd25d)
 
-*LUIS ALBERTO LÓPEZ CRUZ*
 
-LUIS FERNANDO HINOJOSA TRUJILLO
-
-MARCOS ABRAHAM SÁNCHEZ GALINDO
-
-OSVER MANUEL RODRÍGUEZ MORENO
-
-HUGO ALBERTO EGUINO ARÁMBULA
-
-
-## Examen final: miércoles 23 de mayo de 2018, 8:00-12:00 hrs.
 
 
 
