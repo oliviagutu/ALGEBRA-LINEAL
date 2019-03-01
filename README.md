@@ -75,7 +75,10 @@ La calificación del curso se realiza de la siguiente manera:
 
 - Para practicar procedimientos del álgebra lineal:
     -   [Linear Algebra Toolkit](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi)
-         
+        
+        
+- Los chinos establecieron el algorimo de "eliminación gaussina" más de 2200 años antes que Gauss
+(https://www.math.uni-bielefeld.de/documenta/vol-ismp/10_yuan-ya-xiang.pdf)
 
 
 ## EJERCICIOS
@@ -92,6 +95,7 @@ La calificación del curso se realiza de la siguiente manera:
 
 
 **Material extra:
+
 
 Tema: Determinantes.
 
