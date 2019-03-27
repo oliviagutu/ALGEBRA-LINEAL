@@ -96,6 +96,10 @@ La calificación del curso se realiza de la siguiente manera:
 
 **Material extra:
 
+Tema: Espacios vectoriales.
+Recomiendo ver el video:
+(https://www.youtube.com/watch?v=TgKwz5Ikpc8)
+
 
 Tema: Determinantes.
 
