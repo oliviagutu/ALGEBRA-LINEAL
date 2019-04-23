@@ -29,7 +29,7 @@
 
 3.6 Escribe un algoritmo para encontrar una base para el Ker A para una matriz dada A.
 
-3.7 Sea S un subconjunto arbitrario de vectores de V. Demuestra que span S es un espacio vectorial de dimensión finita si y solo si S es un conjunto finito.
+3.7 Sea S un subconjunto no vacío de vectores de V. Demuestra que span S es un espacio vectorial de dimensión finita si  es un conjunto finito.
 
 3.8  Sea V un espacio vectorial, se dice que un conjunto W (diferente del vacío) es un SUBESPACIO de V si para todo w_1 y w_2 in W y para cualquier par de escalares α_1 y α_2 se cumple que α_1w_1+α_2w_2 está en W. Verifica lo siguiente:
 
