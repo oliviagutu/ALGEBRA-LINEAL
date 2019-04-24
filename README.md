@@ -60,9 +60,9 @@
 
 La calificación del curso se realiza de la siguiente manera:
 
-1. Exámenes semanales/quincenales (70%)
+1. Exámenes parciales (50%)
 3. Examen final (20%)
-4. Participación (incluye exposiciones) (10%)
+4. Participación (incluye exposiciones) (30%)
 
 
 ## Ligas de interés
@@ -92,6 +92,70 @@ La calificación del curso se realiza de la siguiente manera:
 [Unidad 4](ejerciciosunidad4.md)
 
 [Unidad 5](ejerciciosunidad5.md)
+
+**EQUIPOS:
+
+
+DETERMINANTE : Determinantes
+
+Víctor Valenzuela Zamorano
+
+Brandon Leyva Morales
+
+Francisco Jacier Castro Márquez
+
+Aldo Rafael Guzmán Villanueva
+
+
+L.I.: Autovalores y autovectores
+
+José Luis Aguilera Luzania
+
+Alejandra Picos Pérez
+
+Diana Laura Ballesteros Valenzuela
+
+Aleyda María Garzón Pérez
+
+Martín Vega Noriega
+
+
+GILBERT STRANG ESCALONADO REDUCIDO: Diagonalización de matrices
+
+Guillermo Velázquez Coronado
+
+Alberto Leyva Contreras
+
+Manuel Crisólogo Monge Tinoco
+
+Erik Roman Valenzuala Cruz
+
+
+KERNEL TRIVIAL: Matrices simétricas y diagonalización
+
+Juan Pablo Lohr Medina
+
+Luis Ángel López Santos
+
+Oscar René Soto Sánchez
+
+Andrew Alejandro Rivera Encinas
+
+Daniel Eduardo Cardena Juárez
+
+
+MATRIZ ZERO: Descomposición en valores singulares 
+
+José Pablo Ibarra Medrano
+
+Juan Antonio Hernández Cota
+
+Eliud Gilberto Rodríguez Martínez
+
+Hugo Francisco Cano Beyliss
+
+Iván Nahim Zepeda Ochoa
+
 
 
 **Material extra:
