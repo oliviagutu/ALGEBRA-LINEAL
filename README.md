@@ -106,6 +106,8 @@ Francisco Jacier Castro Márquez
 
 Aldo Rafael Guzmán Villanueva
 
+Eden Navarrete
+
 
 L.I.: Autovalores y autovectores
 
