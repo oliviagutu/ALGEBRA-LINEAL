@@ -13,6 +13,10 @@
 
 - **Textos**: 
     - *Introduction to linear algebra*, 4.ª ed. Strang, G. Wellesley Cambridge Press.
+    
+- **OTROS TEXTOS**
+    - (https://www.math.ucdavis.edu/~linear/linear-guest.pdf)
+    - (http://www.math.hcmus.edu.vn/~bxthang/Linear%20algebra%20and%20its%20applications.pdf)
 
 
 # Contenido de la materia
